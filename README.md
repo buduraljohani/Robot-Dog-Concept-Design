@@ -1,5 +1,4 @@
-# Robot-Dog-Concept-Design
-First mechanical concept design assignment - Robot Dog
+
 # Robot Dog Concept Design
 
 ## Overview
